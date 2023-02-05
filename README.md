@@ -1,2 +1,2 @@
-# Curso-PHP
-Códigos desenvolvidos durante meu curso sobre a Linguagem PHP
+# Learning-PHP
+Codes developed in the PHP course
