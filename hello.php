@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>Test PHP</h1>
-    <?php echo "Hello world!"?>
+    <?php
+    echo "Hello world!"
+    ?>
 </body>
 </html>
